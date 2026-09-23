@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">CURO HOUSE</title>
+  <rect width="128" height="128" fill="#351071"/>
+  <g fill="#fff" font-family="Arial, Helvetica, sans-serif" font-weight="800" text-anchor="middle" paint-order="stroke fill" stroke="#fff" stroke-width="0.6">
+    <text x="64" y="49" font-size="33" letter-spacing="4" textLength="106" lengthAdjust="spacingAndGlyphs">CURO</text>
+    <text x="64" y="84" font-size="33" letter-spacing="3" textLength="116" lengthAdjust="spacingAndGlyphs">HOUSE</text>
+  </g>
+  <path d="M10 98h91" fill="none" stroke="#fff" stroke-width="4"/>
+  <circle cx="111" cy="100" r="8" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="111" y="103.5" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="middle">R</text>
+</svg>
